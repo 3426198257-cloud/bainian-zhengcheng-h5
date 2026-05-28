@@ -1,2 +1,6 @@
 .playwright-cli/
 output/
+node_modules/
+test-results/
+package-lock.json
+debug.spec.js
